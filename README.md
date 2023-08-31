@@ -1,6 +1,10 @@
 ![logo](https://github.com/Laraib-Azmat/Laraib-Azmat/blob/main/banner.png)
 
-<h1 align="center">Hi 👋, I'm Laraib Azmat</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&size=35&pause=100&color=4d1601&center=true&vCenter=true&width=500&lines=Hi!+My+name+is+Laraib+Azmat;Good+to+see+you+there!" alt="Typing SVG" /></a>
+<h3 align="center">
+  Welcome to my profile 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <img align="right" alt="coding"  width="400" src= "https://www.liveagood.life/community/wp-content/uploads/sites/2/2021/12/59311-girl-working-on-laptop-lottie-animation.gif">
@@ -32,5 +36,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laraib-azmat&show_icons=true&locale=en" alt="laraib-azmat" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laraib-azmat&" alt="laraib-azmat" /></p>
+<div align="center">
+  <a href="#">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
-
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me

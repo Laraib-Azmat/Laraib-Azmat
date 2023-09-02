@@ -35,7 +35,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laraib-azmat&show_icons=true&locale=en" alt="laraib-azmat" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laraib-azmat&" alt="laraib-azmat" /></p>
+
 <div align="center">
   <a href="#">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"

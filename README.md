@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Web development**
 
-- 💬 Ask me about **Html , CSS, JavaScript , React , Java**
+- 💬 Ask me about **Html , CSS, JavaScript , React , Java , SQL**
 
 - 📫 How to reach me **azmatlaraib2003@gmail.com**
 

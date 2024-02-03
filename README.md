@@ -1,6 +1,6 @@
 ![logo](https://github.com/Laraib-Azmat/Laraib-Azmat/blob/main/banner.png)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&size=35&pause=100&color=4d1601&center=true&vCenter=true&width=500&lines=Hi!+My+name+is+Laraib+Azmat;Good+to+see+you+there!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&size=35&pause=100&color=00FFFF&center=true&vCenter=true&width=500&lines=Hi!+My+name+is+Laraib+Azmat;Good+to+see+you+there!" alt="Typing SVG" /></a>
 <h3 align="center">
   Welcome to my profile 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
